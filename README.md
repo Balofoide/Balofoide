@@ -5,14 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=balofoide&label=Eyes%20on%20me&color=5900ff&style=flat-square" alt="balofoide" /> 
 </p>
 
-<div align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4Y3o1bzltMndsenkzZHVycnE5dXdld3NrbHh6ZjNrMDAzbDRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UKF08uKqWch0Y/giphy.gif" alt="Cyber Security GIF" width="150" />
+<div align="center">
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+      - 🔭 I’m currently working on my **Abyss Pearl**<br>
+      - 🌱 I’m currently learning **Pentesting, Web Hacking, and Cybersecurity**<br>
+      - 💬 Ask me about **Cybersecurity**<br>
+      - ⚡ Fun fact: **I know more than it appears**
+    </div>
+    <div style="flex: 1;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4Y3o1bzltMndsenkzZHVycnE5dXdld3NrbHh6ZjNrMDAzbDRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UKF08uKqWch0Y/giphy.gif" alt="Cyber Security GIF" width="150" />
+    </div>
+  </div>
 </div>
-
-- 🔭 I’m currently working on my **Abyss Pearl**
-- 🌱 I’m currently learning **Pentesting, Web Hacking, and Cybersecurity**
-- 💬 Ask me about **Cybersecurity**
-- ⚡ Fun fact: **I know more than it appears**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
