@@ -6,14 +6,14 @@
 </p>
 
 <div align="center">
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="flex: 1;">
       - 🔭 I’m currently working on my **Abyss Pearl**<br>
       - 🌱 I’m currently learning **Pentesting, Web Hacking, and Cybersecurity**<br>
       - 💬 Ask me about **Cybersecurity**<br>
       - ⚡ Fun fact: **I know more than it appears**
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; text-align: center;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4Y3o1bzltMndsenkzZHVycnE5dXdld3NrbHh6ZjNrMDAzbDRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UKF08uKqWch0Y/giphy.gif" alt="Cyber Security GIF" width="150" />
     </div>
   </div>
