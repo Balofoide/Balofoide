@@ -42,10 +42,11 @@
 
 
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Language Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balofoide&show_icons=true&theme=radical&title_color=ff00ff&text_color=ffffff&locale=en&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balofoide&theme=radical&title_color=ff00ff&text_color=ffffff&layout=compact&langs_count=10" alt="GitHub Language Stats" />
 </p>
+
 
 
