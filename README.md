@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=balofoide&label=Eyes%20on%20me&color=5900ff&style=flat-square" alt="balofoide" /> 
 </p>
 
-<div align="center">
+<div align="right">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4Y3o1bzltMndsenkzZHVycnE5dXdld3NrbHh6ZjNrMDAzbDRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UKF08uKqWch0Y/giphy.gif" alt="Cyber Security GIF" width="150" />
 </div>
 
