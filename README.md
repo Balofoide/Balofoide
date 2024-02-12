@@ -24,7 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_assembly/gnu_assembly-icon.svg" alt="assembly" width="40" height="40"/>
 </p>
 
 <h3 align="center">🛠️ Tools</h3>
@@ -47,10 +46,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balofoide&show_icons=true&theme=dark&title_color=7300ff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balofoide&show_icons=true&theme=dark&title_color=7300ff&text_color=ffffff&locale=en&hide=contribs,prs" alt="GitHub Stats" />
 </p>
 
+<h3 align="left">💻 Top Languages:</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balofoide&show_icons=true&theme=dark&title_color=7300ff&text_color=ffffff&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balofoide&layout=compact&theme=dark&title_color=7300ff&text_color=ffffff" alt="Top Languages" />
 </p>
+
 
