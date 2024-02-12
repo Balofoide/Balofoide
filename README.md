@@ -6,7 +6,8 @@
 </p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdhMWZqZjJtZzZwdGEwcGY4d3F3Znl4bHNzcHU4bjg1MG43bTRneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif" alt="Cyber Security GIF" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdhMWZqZjJtZzZwdGEwcGY4d3F3Znl4bHNzcHU4bjg1MG43bTRneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif" alt="Cyber Security GIF" width="500" />
+</br>
 </div>
 
 - 🔭 I’m currently working on my **Abyss Pearl**
