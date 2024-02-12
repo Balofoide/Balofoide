@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my **Abyss Pearl**
 - 🌱 I’m currently learning **Pentesting, Web Hacking, and Cybersecurity**
 - 💬 Ask me about **Cybersecurity**
-- ⚡ Fun fact: **I know more than it appears**
+- ⚡ Fun fact: **From Software Enthusiast**
 
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
