@@ -14,7 +14,7 @@
       - ⚡ Fun fact: **I know more than it appears**
     </div>
     <div style="flex: 1;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4Y3o1bzltMndsenkzZHVycnE5dXdld3NrbHh6ZjNrMDAzbDRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UKF08uKqWch0Y/giphy.gif" alt="Cyber Security GIF" width="150" align="right"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4Y3o1bzltMndsenkzZHVycnE5dXdld3NrbHh6ZjNrMDAzbDRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UKF08uKqWch0Y/giphy.gif" alt="Cyber Security GIF" width="300" align="right"/>
     </div>
   </div>
 </div>
