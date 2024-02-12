@@ -39,16 +39,22 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> 
-  </a>
-  <a href="https://www.assembly.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="assembly" width="40" height="40"/> 
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
   </a>
+  <a href="https://www.lua.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> 
+  </a>
+  <a href="https://www.asm.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="assembly" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balofoide&show_icons=true&theme=dark&title_color=7300ff&text_color=ffffff&locale=en&layout=compact" alt="balofoide" />
 </p>
