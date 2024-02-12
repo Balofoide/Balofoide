@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VeBX6zA6KfTBDNGiQI/giphy.gif" alt="Cyber Security GIF" width="300" />
+  <img src="[https://media.giphy.com/media/VeBX6zA6KfTBDNGiQI/giphy.gif](https://www.funnyjunk.com/Life/funny-pictures/5572032/25)" alt="Cyber Security GIF" width="300" />
 </div>
 
 - 🔭 I’m currently working on my **Abyss Pearl**
