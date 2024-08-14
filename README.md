@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ)" alt="Segurança da Informação GIF" width="500" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ptazlmbmdscWx0MzgycHI3Zmx0ZGZ1OGtlOGlnOXQ4cHpkYWhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIODGWDBuG5AWlUExJ/giphy.webp" alt="Segurança da Informação GIF" width="500" />
   </br>
   </br>
 </div>
