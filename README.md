@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" alt="Segurança da Informação GIF" width="500" />
   </br>
   </br>
 </div>
