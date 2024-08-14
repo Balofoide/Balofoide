@@ -1,12 +1,12 @@
-<h1 align="center">Bem-vindo ao Universo da Segurança!</h1>
-<h3 align="center">🛡️ Estudante de Segurança da Informação</h3>
+<h1 align="center">Welcome to the void</h1>
+<h3 align="center">Estudante de Segurança da Informação</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visitas&color=007bff&style=flat-square" alt="visitas" /> 
 </p>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/3oEjI6SIIHBdRxXI40/200w.gif" alt="Segurança da Informação GIF" width="500" />
+  <img src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ" alt="Segurança da Informação GIF" width="500" />
   </br>
   </br>
 </div>
