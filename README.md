@@ -43,5 +43,5 @@
 <h3 align="left">📊 Estatísticas de Linguagens do GitHub:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&theme=radical&title_color=ff00ff&text_color=ffffff&layout=compact&langs_count=10" alt="Estatísticas de Linguagens do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balofoide&theme=radical&title_color=ff00ff&text_color=ffffff&layout=compact&langs_count=10" alt="Estatísticas de Linguagens do GitHub" />
 </p>
