@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Segurança da Informação</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visitas&color=007bff&style=flat-square" alt="visitas" /> 
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visitas&color=007bff&style=flat-square" alt="Eyes on me" /> 
 </p>
 
 <div align="center">
@@ -11,14 +11,13 @@
   </br>
 </div>
 
-- 🔭 Atualmente trabalhando em **Projetos de Segurança Cibernética**
-- 🌱 Atualmente aprendendo sobre **Testes de Penetração, Hackeamento de Web e Segurança Cibernética**
+- 🔭 Atualmente trabalhando em **Meu jogo AbyssPearl**
+- 🌱 Atualmente aprendendo sobre **Testes de Penetração, Web Hacking e Segurança Cibernética**
 - 💬 Pergunte-me sobre **Segurança da Informação**
-- ⚡ Curiosidade: **Entusiasta de Software e Tecnologias**
+- ⚡ Curiosidade: **Entusiasta dos jogos da Fromsoftware**
 
 <h3 align="center">💻 Linguagens de Programação</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
