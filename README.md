@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Segurança da Informação</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=balofoide&label=Eyes on Me&color=007bff&style=flat-square" alt="Eyes on me" /> 
+  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 </p>
 
 <div align="center">
