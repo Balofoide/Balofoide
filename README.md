@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Segurança da Informação</h3>
 
 <p align="center"> 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+  ![](https://komarev.com/ghpvc/?username=balofoide&abbreviated=true)
 </p>
 
 <div align="center">
