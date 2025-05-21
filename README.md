@@ -41,28 +41,15 @@
 </p>
  <h3 align="center">📊 Estatísticas GitHub</h3>
 
-<details open>  
-  <summary><h2>🔥 Destaques</h2></summary>
+<p align="center">
+  <!-- Stats + Streak -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=balofoide&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&icon_color=9400D3&text_color=FFFFFF">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=balofoide&theme=midnight-purple&hide_border=true&background=00000000&stroke=8A2BE2&fire=8A2BE2&ring=8A2BE2">
   
-  <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=balofoide&hide_border=true&title_color=8A2BE2&show_icons=true&icon_color=9400D3&ring_color=8A2BE2&bg_color=00000000&text_color=FFFFFF&rank_icon=github">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=balofoide&theme=midnight-purple&hide_border=true&background=00000000&stroke=8A2BE2&fire=8A2BE2&ring=8A2BE2&currStreakLabel=8A2BE2">
-  </p>
-</details>
-
-<details>
-  <summary><h2>📈 Atividade</h2></summary>
+  <!-- Activity Graph -->
+  <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&color=8A2BE2&line=9400D3&point=8A2BE2">
   
-  <p align="center">
-    <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&color=8A2BE2&line=9400D3&point=8A2BE2">
-  </p>
-</details>
-
-<details>
-  <summary><h2>🧠 Linguagens</h2></summary>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balofoide&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
-  </p>
-</details>
+  <!-- Languages -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balofoide&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
+</p>
