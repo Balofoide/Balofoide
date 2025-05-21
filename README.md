@@ -51,5 +51,5 @@
   
   <!-- Languages -->
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balofoide&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
 </p>
