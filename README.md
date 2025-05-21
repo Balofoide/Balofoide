@@ -44,9 +44,11 @@
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Balofoide&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&icon_color=9400D3&text_color=FFFFFF&cache_bust=1">
   
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Balofoide&theme=midnight-purple&hide_border=true&background=00000000&stroke=8A2BE2&fire=8A2BE2&ring=8A2BE2&currStreakLabel=8A2BE2&cache_bust=2">
+  <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=Balofoide&theme=midnight-purple&hide_border=true&background=00000000&currStreakNum=8A2BE2&fire=8A2BE2&card_height=205&currStreakLabel=8A2BE2&ring=8A2BE2&border=00000000">
 </p>
 
 <p align="center">
   <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&color=8A2BE2&line=9400D3&point=8A2BE2&cache_bust=3">
+ <!-- <img width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Balofoide&theme=midnight-purple&card_width=805&title_color=8A2BE2&bg_color=00000000&layout=default&hide_border=true&text_color=FFFFFF" --!>
+ 
 </p>
