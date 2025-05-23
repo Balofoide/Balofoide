@@ -50,6 +50,6 @@
 <p align="center">
   <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Balofoide&theme=midnight-purple&hide_border=true&bg_color=00000000&color=8A2BE2&line=9400D3&point=8A2BE2&cache_bust=3">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balofoide&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF">
- <img width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Balofoide&theme=midnight-purple&card_width=805&title_color=8A2BE2&bg_color=00000000&layout=default&hide_border=true&text_color=FFFFFF"
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Balofoide&theme=midnight-purple&card_width=805&title_color=8A2BE2&bg_color=00000000&layout=default&hide_border=true&text_color=FFFFFF"
  
 </p>
