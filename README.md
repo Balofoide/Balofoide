@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to the void</h1>
-<h3 align="center">Estudante de Segurança da Informação</h3>
+<h3 align="center">Cybersecurity Advisor | Full StackDev | Game Developer | Artists | Pentester  </h3>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=balofoide&style=flat-square&abbreviated=true&color=blueviolet&label=Eyes%20on%20me">
